@@ -1,4 +1,5 @@
 Hi, I’m Christyl Joy Reyes
+
 I'm a Junior Programmer focused on doing front-end developing
 
 👀 I have a lots of hobies (Singing, Dancing, Blogging, Playing Game, Watching Movies, etc....)
