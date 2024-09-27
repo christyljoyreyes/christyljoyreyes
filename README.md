@@ -1,10 +1,10 @@
 Hi, I’m Christyl Joy Reyes
 
-I'm a Junior Programmer focused on doing front-end developing
+I'm a Frontend Developer focused on creating design through code structure
 
 👀 I have a lots of hobies (Singing, Dancing, Blogging, Playing Game, Watching Movies, etc....)
 
-🌱 I’m currently learning Angular, Flutter and some latest Programming Languages
+🌱 I’m currently learning new latest frameworks and libraries on developing website and some latest Programming Languages
 
 💞️ Do you want to collab/ working with me? im open for any new opportunities.
 
